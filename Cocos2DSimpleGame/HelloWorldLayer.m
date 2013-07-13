@@ -17,6 +17,8 @@
 // Needed to obtain the Navigation Controller
 #import "AppDelegate.h"
 
+#define arc4random random
+
 #pragma mark - HelloWorldLayer
 
 // HelloWorldLayer implementation
